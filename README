@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1475
+
+This is a very rudimentary but functional and hopefully useful syntax file for the Maude language (http://maude.cs.uiuc.edu/). A screenshot with the "koehler" colorscheme is available here: http://severinghaus.org/projects/mandelbrot/maudelbrot_vim.png
